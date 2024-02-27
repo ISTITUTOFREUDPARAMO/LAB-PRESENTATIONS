@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ISTITUTOFREUDSIMBALADD
+- 👋 Hi, I’m @ISTITUTOFREUDGYMBRODINI
 - 👀 I’m interested in Arduino and AI
 - 🌱 I’m currently learning Arduino
 - 💞️ I’m looking to collaborate on Arduino projects
